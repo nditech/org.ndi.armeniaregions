@@ -16,25 +16,22 @@ function armeniaregions_stateConfig() {
     'countryIso' => 'AM',
     'states' => array(
       // 'state name' => 'abbreviation',
-      'Bomi' => '1',
-      'Bong' => '2',
-      'Gbarpolu' => '3',
-      'Grand Bassa' => '4',
-      'Grand Cape Mount' => '5',
-      'Grand Gedeh' => '6',
-      'Grand Kru' => '7',
-      'Lofa' => '8',
-      'Margibi' => '9',
-      'Maryland' => '10',
-      'Montserrado' => '11',
-      'Nimba' => '12',
-      'Rivercess' => '13',
-      'River Gee' => '14',
-      'Sinoe' => '15',
+      'Ararat' => '1',
+      'Armavir' => '2',
+      'Aragatsotn' => '3',
+      'Gegharkunik' => '4',
+      'Kotayk' => '5',
+      'Lori' => '6',
+      'Shirak' => '7',
+      'Syunik' => '8',
+      'Tavush' => '9',
+      'Vayots Dzor' => '10',
+      'Yerevan' => '11',
     ),
     'rewrites' => array(
       // List states to rewrite in the format:
       // 'Default State Name' => 'Corrected State Name',
+      
     ),
   );
   return $config;
